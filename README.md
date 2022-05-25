@@ -1,4 +1,4 @@
-## Olá, o meu nome é Lucas e eu sou um estudante de programação e desenvolvimento!
+## Olá, o meu nome é Lucas, e eu sou um estudante de programação e desenvolvimento Web!
 
 <div align="center">
   <a href="https://github.com/LucasBonato">
