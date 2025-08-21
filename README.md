@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/LucasBonato">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBonato&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBonato&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java"       height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
