@@ -4,7 +4,7 @@
   <a href="https://github.com/LucasBonato">
   <img height="165em" src="./profile/stats.svg"/>
 </div>
-<div style="display: inline_block" align="center"><br>
+<div style="display: flex; justify-content: space-evenly; align-items: center;" ><br>
   <img align="center" alt="Java"       height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="SpringBoot" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="C#"         height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
